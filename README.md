@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Li Yang (lylyz6)
 
-<!--
-**lylyz6/lylyz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master Student in Software Engineering @ Hainan University**
+🔬 **Research Interest:** Computational Pathology | Deep Learning | Computer Vision
+💻 **Tech Stack:** Python | PyTorch | C | OpenCV | Linux
+⚙️ **Hardware Enthusiast:** Master of System Optimization & Overclocking
 
-Here are some ideas to get you started:
+### 🚀 Current Focus
+- Diving deep into Whole Slide Image (WSI) analysis and Medical AI.
+- Exploring Foundation Models in pathology (like DINOv2, ResNet architectures).
+- Building efficient data pipelines for massive medical datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
